@@ -1,0 +1,571 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Some useful sayings, in verse and prose collected by a lover of vertue and goodness in whomsoever.</title>
+            <author>Pennyman, John, 1628-1706.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1688</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 47 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54269</idno>
+            <idno type="STC">Wing P1418</idno>
+            <idno type="STC">ESTC R221957</idno>
+            <idno type="EEBO-CITATION">99833201</idno>
+            <idno type="PROQUEST">99833201</idno>
+            <idno type="VID">37676</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54269)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 37676)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2193:05)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Some useful sayings, in verse and prose collected by a lover of vertue and goodness in whomsoever.</title>
+                  <author>Pennyman, John, 1628-1706.</author>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The second edition with alterations and additions.</edition>
+               </editionStmt>
+               <extent>[4], 1, 6-30 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1688.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed by Wing to John Pennyman.</note>
+                  <note>Text appears continuous despite pagination and register.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Friends' House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Conduct of life --  Early works to 1800.</term>
+               <term>Maxims --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:37676:1"/>
+            <p>SOME USEFUL SAYINGS, IN VERSE and PROSE, COLLECTED By a Lover of Vertue and Good<g ref="char:EOLhyphen"/>neſs in Whomſoever.</p>
+            <q>
+               <l>The Heart of him that is upright,</l>
+               <l>In Heavenly knowledge takes delight.</l>
+            </q>
+            <q>
+               <hi>I will delight my ſelf in THY Statutes.</hi>
+            </q>
+            <q>
+               <l>If thou would'ſt true Wiſdom win,</l>
+               <l>Then thou muſt retire within.</l>
+            </q>
+            <q>That which may be known of GOD is manifeſt in them, <bibl>
+                  <hi>Rom. 3.19.</hi>
+               </bibl>
+            </q>
+            <p>The Second Edition with Alterations and Additions.</p>
+            <p>
+               <hi>He that is inſtrvcted unto the Kingdom of Hea<g ref="char:EOLhyphen"/>ven, bringeth out of his Treaſure things</hi> New <hi>and</hi> Old.</p>
+            <p>
+               <hi>London,</hi> Printed for the Author, 1688.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:37676:2"/>
+            <pb facs="tcp:37676:2"/>
+            <head>THE PREFACE.</head>
+            <p>THe former Impreſſion (excepting the Poſt<g ref="char:EOLhyphen"/>ſcript) was chiefly intended for Young People, and <hi>This</hi> being not only for <hi>ſuch,</hi> but more eſpecially for Thoſe of <hi>riper years;</hi> moſt of the Verſes are left out, and many Sentences in Proſe (and ſome of them of a more Spiritual concern) put in: which probably, to ſome <hi>Hun<g ref="char:EOLhyphen"/>gry Souls</hi> who are waiting for the <hi>Crumbs</hi> that fall from their <hi>LORDS</hi> Table, may be of ſome Service and Refreſhment. For its the <hi>Poor</hi> and <hi>Hungry</hi> that are to be fed with <hi>Good things,</hi> when the Rich and the Full goes empty away.</p>
+            <p>
+               <hi>O THOU INFINITE AND WON<g ref="char:EOLhyphen"/>DERFUL BEING!</hi> How doſt <hi>THOU</hi> hide the <hi>Myſteries</hi> of <hi>THY</hi> Kingdom from the Wiſe and Prudent, and reveals them to Babes; even to thoſe ſincere Souls that are intirely given up to ſerve <hi>THEE:</hi> This, this, is <hi>THY</hi> do<g ref="char:EOLhyphen"/>ings <hi>THOU KING</hi> of <hi>Righteouſneſs</hi> and <hi>KING</hi> of <hi>Peace.</hi> Go on, go on, I beſeech <hi>THEE,</hi> that <hi>THINE OWN WORKS
+<pb facs="tcp:37676:3"/>MAY YET PRAISE THEE:</hi> and that it may be known that the <hi>GOD</hi> of <hi>Daniel</hi> is the <hi>ONLY TRUE AND LIVING GOD,</hi> and that <hi>HE</hi> alone is the Revealer of <hi>Hiden Myſteries,</hi> to thoſe who are found Inno<g ref="char:EOLhyphen"/>cent before <hi>HIM,</hi> and who are freely and wil<g ref="char:EOLhyphen"/>lingly given up to part with all that is near and dear unto them for <hi>HIS</hi> Sake.</p>
+            <p>
+               <hi>O THOU GREAT AND MIGHTY ONE!</hi> make bare <hi>THINE</hi> Arm, that the Nations may know there is a <hi>GOD</hi> that judg<g ref="char:EOLhyphen"/>eth in the Earth; and that will reward every Man according to his Deeds.</p>
+            <p>I that am but as a poor <hi>Worm,</hi> Proſtrate my ſelf before <hi>THEE:</hi> Humbly begging that <hi>THOU</hi> wouldſt <hi>Rule</hi> and <hi>Reign</hi> in and over Me, and all Mine, henceforth even for ever, and ever. <hi>Amen.</hi>
+            </p>
+            <closer>
+               <dateline>
+                  <date>
+                     <hi>Dec.</hi> 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:37676:3"/>
+            <head>SOME USEFUL SAYINGS, &amp;c.</head>
+            <div type="part">
+               <p n="1">1. <hi>TO work aright, OLORD, inſtruct thou me, That in THY Sight I may approved be: Then ſhall my Soul have Reſt and Peace for ever In THEE, which neither Death nor Hell can ſever.</hi>
+               </p>
+               <p n="2">2. IT matters not, how I appear to Man, A Witneſs in my Soul there is, that can This record to the FATHER bear, that I Seek not Mans praiſe, but Immortality: That ſo a Crown of Reſt I may receive, Which Mortals have not in their Power to give.</p>
+               <p>
+                  <hi>If I yet pleaſed Men, I ſhould not be the Servant of Chriſt.</hi>
+               </p>
+               <p n="3">3. THo' all the World my Actions diſcommend, I am at Peace, when Conſcience is my Friend.</p>
+               <p>
+                  <hi>And herein do I exerciſe my ſelf, to have alwaies a Conſcience void of Offence towards GOD, and to<g ref="char:EOLhyphen"/>wards Man.</hi>
+               </p>
+               <p n="4">4. HE that Commands himſelf is more a Prince, Than He who Nations keeps in Awe, And they that yield to what their Souls convince, Shall never need another Law.</p>
+               <p>
+                  <hi>The WORD is nigh thee, in thy Mouth, and in thy Heart, to obey it and do it.</hi>
+               </p>
+               <p n="5">
+                  <pb n="6" facs="tcp:37676:4"/>5. HE's ſtill himſelf, when company is gone, Too well employ'd ever to be alone; He takes no thought to be obſerv'd or ſeen, Whil'ſt all his Acts are eccho'd from within.</p>
+               <p>
+                  <hi>Love to be unknown and nothing accounted of.</hi>
+               </p>
+               <p n="6">6. HE dares not wiſh, nor his own fate propound; But if GOD ſend, reads love in ev'ry wound And would not loſe, for all the joys of ſenſe, The inward comfort of Obedience.</p>
+               <p>
+                  <hi>Remember</hi> Abraham, <hi>the Father of all the Faithful.</hi>
+               </p>
+               <p n="7">7. WHen all the ſtormy World doth roar, How unconcern'd am I: I cannot fear the falling lower, Who never would be High.</p>
+               <p>
+                  <hi>The lowlieſt mind is ſafeſt.</hi>
+               </p>
+               <p n="8">8. HAppy that Soul that is content alone, And needs no entertainment, but its own.</p>
+               <p>
+                  <hi>Never leſs alone, than when alone.</hi>
+               </p>
+               <p n="9">9. HE that lives at Home, and learns to know, GOD and himſelf, needs no further go.</p>
+               <p>
+                  <hi>The Kingdom of GOD is within you.</hi> Luke 17.21.</p>
+               <p n="10">10. AT length this <hi>Secret</hi> I have learn'd, Who will be happy muſt be unconcern'd; Muſt all their Comfort in their boſom wear, And ſeek their <hi>Treaſure,</hi> and their <hi>Power</hi> there.</p>
+               <p>
+                  <hi>We have this Treaſure in Earthen Veſſels.</hi> 2 Cor.</p>
+            </div>
+            <div type="part">
+               <pb n="7" facs="tcp:37676:4"/>
+               <head>USEFUL SAYINGS, &amp;c.</head>
+               <p n="1">1. THe Fear of the LORD is the <hi>firſt ſtep</hi> to be accepted of HIM, and <hi>true Wiſdom</hi> obtaineth HIS Love.</p>
+               <p n="2">2. Bleſſed is that <hi>Soul</hi> that heareth the LORD ſpeaking in <hi>Her,</hi> and receiveth from HIS Mouth the Word of Comfort. <hi>Chriſtian Pat.</hi>
+               </p>
+               <p n="3">3. Bleſſed are thoſe Ears that hearken only to the DIVINE VOICE, and liſten not to the Whiſperings and Allurements of the World.</p>
+               <p n="4">4. If I chooſe the LORD for my Portion, then <hi>Mercy</hi> and <hi>Goodneſs</hi> ſhall follow me whilſt I live, and <hi>Glory</hi> and <hi>everlaſting happineſs</hi> ſhall be my Portion when I die.</p>
+               <p n="5">5. He that hath little Underſtanding, and ſear<g ref="char:EOLhyphen"/>eth GOD, is better than he that is exceeding Wiſe, and tranſgreſſeth the Law of the moſt HIGH.</p>
+               <p n="6">6. He that intends to attain to the more <hi>inward &amp; Spiritual things</hi> of <hi>Religion,</hi> muſt with JESUS depart from the multitude and preſs of People.</p>
+               <p n="7">7. Twas Sir <hi>Henry Woton</hi>'s Motto, after all his Travels and Embaſſies, <hi>I have at length learn'd, That the greateſt Wiſdom is got by a quiet retirement.</hi>
+               </p>
+               <p n="8">8. Let it be our Care to live here as we ought, contented with the condition which Providence alots us; whatever we may meet with in the Way we ſhall be happy in the End, which the Wiſe in Heart conſiders.</p>
+               <p n="9">
+                  <pb n="8" facs="tcp:37676:5"/>9. Learn to overcome thy ſelf in all things, for the Love of thy CREATOR, and then thou ſhalt be able to attain to Divine Knowledge.</p>
+               <p n="10">10. If thou ſpend the Day profitably, thou wilt have cauſe to rejoyce in the Evening.</p>
+               <p n="11">11. Simple Obedience is to be preferred before all Worldly Wiſdom.</p>
+               <p n="12">12. The Glory of a good Man is the Teſtimony of a good Conſcience; have <hi>That</hi> and thou wilt have <hi>inward Peace</hi> in the midſt of many Troubles.</p>
+               <p n="13">13. To do alwaies well, and to have low thoughts of thy ſelf, is a ſign of an Humble Soul.</p>
+               <p n="14">14. They that follow Senſuality, ſtain their own Conſciences and loſe the favour of GOD.</p>
+               <p n="15">15. Withdraw thy ſelf violently from That, to which nature is viciouſly inclin'd.</p>
+               <p n="16">16. They that avoid not ſmall faults, by little and little, fall into greater.</p>
+               <p n="17">17. They that live at Liberty and Eaſe, ſhall ever live in Diſquiet.</p>
+               <p n="18">18. True quietneſs of Heart is got by reſiſting our Paſſions, not by obeying them.</p>
+               <p n="19">19. Remember alwaies thy <hi>End,</hi> and how that loſt time never returns.</p>
+               <p n="20">20. If we engage into a large Acquaintance, and various Familiarities, we ſet open our Gates to the Invaders of moſt of our time. <hi>Char<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on.</hi>
+               </p>
+               <p n="21">21. <hi>Viſits</hi> made or received, are uſually an intollerable conſumption of Time, unleſs prudent<g ref="char:EOLhyphen"/>ly order'd: and they are for the moſt part ſpent in vain and impertinent Diſcourſes, <hi>J. Hales.</hi>
+               </p>
+               <p n="22">22. <hi>Many Viſitings,</hi> or <hi>many Viſitors</hi> does not only hinder true Tranquility, but much deprive
+<pb n="9" facs="tcp:37676:5"/>us of that time which ought to be better employ'd.</p>
+               <p n="23">23. Time fruitleſly paſſed away, will in the end cauſe an aking Heart.</p>
+               <p n="24">24. Defile not thy Mouth with Swearing; nei<g ref="char:EOLhyphen"/>ther uſe thy ſelf to the Naming of the <hi>Holy</hi> ONE.</p>
+               <p n="25">25. Let the Name of GOD be ſparing in your Mouth, but abundantly in your Heart.</p>
+               <p n="26">26. The Jews of Old accounted the Name JEHOVAH ſo Sacred, that they durſt not ut<g ref="char:EOLhyphen"/>ter it; the High Prieſt alone, and that in the Temple only, but once in the Year at their So<g ref="char:EOLhyphen"/>lemn Feaſt, while he bleſſed the People, might have leave to mention it, for others it was Death. <hi>Buxt. Lex. Youths Monitor</hi> p. 100.</p>
+               <p n="27">27. It is a mark of folly and ill nature to hate reproof, and far from his mind that ſaid; <hi>If the Righteous ſmite me, it ſhall be a kindneſs; and let him reprove me, it ſhall be an excellent Oyl.</hi>
+               </p>
+               <p n="28">28. Sin and Sorrow are inſeparable Compani<g ref="char:EOLhyphen"/>ons; thou canſt not let in the one, and ſhut out the other; he that ſwims in <hi>Sin,</hi> muſt ſink in <hi>
+                     <hi>Sorrow.</hi> Divine Breathings.</hi> p. 66.</p>
+               <p n="29">29. Corrupt Examples may ſway with weak Minds, but the wiſe in Heart will regard and con<g ref="char:EOLhyphen"/>ſider their own Duty. <hi>Sam. Croſland.</hi>
+               </p>
+               <p n="30">30. <hi>Noah</hi> had periſhed in the Waters, if <hi>Times</hi> had carried him. <hi>LOT</hi> had Burnt in <hi>Sodom,</hi> if the Multitude had ſway'd him; The ſins of <hi>Times</hi> GODS <hi>People</hi> may alwaies be pious mourners for them; but never practiſers of them: Be ye (what ever others are) <hi>Righteous in your Genera<g ref="char:EOLhyphen"/>tion before the</hi> LORD. <hi>Idem.</hi>
+               </p>
+               <p n="31">31. Oppoſe no Man willful<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, neither follow any in evil Courſes, <hi>Idem.</hi>
+               </p>
+               <p n="32">
+                  <pb n="10" facs="tcp:37676:6"/>32. <hi>Obſtinacy</hi> is an Advantage to our Ene<g ref="char:EOLhyphen"/>mies, a Trouble to our Friends, and the aſſured overthrow of our Selves.</p>
+               <p n="33">33. SO gracious is Providence, that every Man has a <hi>Light</hi> ſet up within himſelf for a <hi>Guide. Seneca.</hi>
+               </p>
+               <p n="34">34. An <hi>Immutable Law,</hi> which with the know<g ref="char:EOLhyphen"/>ledg of <hi>Good</hi> and <hi>Evil,</hi> is Engraven upon the <hi>Heart,</hi> and Grafted into the <hi>Soul</hi> of Man. <hi>Origen.</hi>
+               </p>
+               <p n="35">35. Let none blame the <hi>Light,</hi> they are not <hi>Sa<g ref="char:EOLhyphen"/>ved,</hi> but their own <hi>Rebellion</hi> who refuſe to be <hi>Saved</hi> by it.—No Man is without a <hi>Teacher,</hi> to Inſtruct, or Aſſiſt him, in the <hi>Way</hi> to Eternal Life. <hi>Chryſoſtom.</hi>
+               </p>
+               <p n="36">36. The moſt excellent thing the <hi>Soul</hi> is awake<g ref="char:EOLhyphen"/>ned to, is her <hi>Guide;</hi> that is, a <hi>Divine Spirit with<g ref="char:EOLhyphen"/>in:</hi> But if man be <hi>Rebellious</hi> to it, it will prove his <hi>
+                     <hi>Torment.</hi> Pythagoras.</hi>
+               </p>
+               <p n="37">37. <hi>Socrates</hi> frequently ſaid, he had <hi>the Guide of his Life within him,</hi> and call'd it his <hi>good Angel,</hi> or <hi>Spirit,</hi> that ſuggeſted to his Mind what was <hi>Good</hi> and <hi>Vertuous,</hi> and inclined and diſpoſed to a <hi>Pious Life;</hi> and that it furniſhed him with <hi>Di<g ref="char:EOLhyphen"/>vine Knowledge.</hi>
+               </p>
+               <p n="38">38. The Vertue and Happineſs of a Man de<g ref="char:EOLhyphen"/>pends upon the cloſe correſpondence of his mind with the <hi>Divine Will. Cleanthus.</hi>
+               </p>
+               <p n="39">39. <hi>Seneca</hi> ſaith, I have a clear and certain <hi>Light</hi> by which I may judge the <hi>Truth</hi> from <hi>Falſhood;</hi> that which appertains to the felicity of the <hi>Soul,</hi> the <hi>Internal</hi> will direct to.—GOD is in us, the Holy Spirit ſits or reſides in Man, and is the ob<g ref="char:EOLhyphen"/>ſerver
+<pb n="11" facs="tcp:37676:6"/>of our <hi>Good</hi> or <hi>Evil</hi> Actions; as HE is dealt with by us, HE deals with us.</p>
+               <p n="40">40. GOD hath <hi>Built</hi> to HIMSELF a <hi>Tem<g ref="char:EOLhyphen"/>ple</hi> in the Conſciences of Men, as the Place where<g ref="char:EOLhyphen"/>in HE would be Worſhipped; and that there Men ought to look for HIS Appearance. <hi>Juſtinus.</hi>
+               </p>
+               <p n="41">41. A Life Subject to the holy Guidings of the Univerſal <hi>Light</hi> in the Conſcience, is a kind of a natural Chriſtianity, or to be naturally a Chri<g ref="char:EOLhyphen"/>ſtian. <hi>Tertullian.</hi>
+               </p>
+               <p n="42">42. Worſhip GOD; reverence thy Parents; know thy Self; in Child-hood be <hi>Modeſt;</hi> in Youth <hi>Temperate;</hi> in Man-hood <hi>Juſt;</hi> and in Old Age <hi>Prudent,</hi> that thou maiſt die untroubled. <hi>Chilon.</hi>
+               </p>
+               <p n="43">43. <hi>Vertue</hi> is the <hi>Beauty,</hi> and <hi>
+                     <g ref="char:V">Ʋ</g>ice</hi> the <hi>deformi<g ref="char:EOLhyphen"/>ty</hi> of the <hi>Soul, Socrates.</hi>
+               </p>
+               <p n="44">44. Vertue is an Armour that none can pierce or take from good men. <hi>Pleaſure</hi> is one of the greateſt <hi>Miſchiefs</hi> in the World. <hi>Antiſthenes.</hi>
+               </p>
+               <p n="45">45. Where mens Souls are deeply and frequent<g ref="char:EOLhyphen"/>ly employed in <hi>Spiritual Retirement,</hi> and wait<g ref="char:EOLhyphen"/>ing for <hi>Divine Strength,</hi> and are oft exercis'd in <hi>Meditation;</hi> Holy <hi>Revelations,</hi> or <hi>Illuminations</hi> will occur, which enlightens the <hi>Soul</hi> and enables it the better to live and act <hi>Virtuouſly. Diogenes.</hi>
+               </p>
+               <p n="46">46. GOD grant that I may alwaies be ſo hap<g ref="char:EOLhyphen"/>py, as to obſerve the venerable ſanctity in my <hi>Words</hi> and <hi>Deeds,</hi> which are commanded by thoſe <hi>Noble Laws,</hi> written in mens Hearts. <hi>Sophocles.</hi>
+               </p>
+               <p n="47">47. Cordially eſpouſe all <hi>Vertue,</hi> conſtantly hate and decline all <hi>
+                     <g ref="char:V">Ʋ</g>ice.</hi>
+               </p>
+               <p n="48">48. To be <hi>humble</hi> to Superiors, is Duty; to
+<pb n="12" facs="tcp:37676:7"/>Equals Civility; to Inferiors Courteſie; to all Safety.</p>
+               <p n="49">49. It is to be Obſerv'd, that the Poor Man <hi>Sings</hi> at his Plow, while the Rich Man <hi>frets</hi> in his Palace: This ſhews, that 'tis the Mind not the For<g ref="char:EOLhyphen"/>tune that makes us happy.</p>
+               <p n="50">50. The Glory of the Aged is their <hi>Experi<g ref="char:EOLhyphen"/>ence</hi> and their <hi>Wiſdom,</hi> the Glory of a young Man is his <hi>Modeſty</hi> and <hi>Submiſſion.</hi>
+               </p>
+               <p n="51">51. He that is a Companion of <hi>Riotus Men,</hi> ſhameth his Father and diſhonoureth his Mother.</p>
+               <p n="52">52. 'Tis not for young Men to drink Wine, nor for lovers of <hi>Vertue</hi> to be <hi>Drinkers</hi> of <hi>ſtrong Drink.</hi>
+               </p>
+               <p n="53">53. Be not a Companion with <hi>Wine-bibbers,</hi> nor with <hi>Riotous eaters</hi> of Fleſh. <hi>Pro.</hi> 23.20.</p>
+               <p n="54">54. Deal by thy Eſtate which GOD in HIS Providence ſhall pleaſe to give Thee, <hi>as</hi> Cicero <hi>once Ingeniouſly and Prudently advis'd;</hi> Let them not be lockt up ſo cloſe, but that <hi>Wiſdom</hi> and <hi>Li<g ref="char:EOLhyphen"/>berality</hi> may have the Key, and at any time come freely to them: Neither let them lie ſo looſe and open, that <hi>Prodigality</hi> ſhould <hi>abuſe</hi> and <hi>waſt</hi> them. <hi>S. Croſland.</hi>
+               </p>
+               <p n="55">55. He that will be <hi>Laviſh</hi> in his <hi>Superflui<g ref="char:EOLhyphen"/>ties,</hi> will afterwards find himſelf unavoidably ſtraitned in his neceſſities. <hi>Idem.</hi>
+               </p>
+               <p n="56">56. Conſcience once embaſed, the Heart once polluted by <hi>
+                     <g ref="char:V">Ʋ</g>icious Courſes,</hi> is not eaſily re<g ref="char:EOLhyphen"/>cover'd to the true <hi>Fear</hi> of the LORD. <hi>Idem</hi>
+               </p>
+               <p n="57">57. Honour thy Father, and forget not the Sorrows of thy Mother; and take heed of Griev<g ref="char:EOLhyphen"/>ing, Contradicting, or Contending with them: But with all Tenderneſs, Modeſty, and Submiſſion behave thy ſelf towards them.</p>
+               <p n="58">
+                  <pb n="13" facs="tcp:37676:7"/>58. Youth ſhould be a Pattern for <hi>Vertue,</hi> not a Priviledg for <hi>
+                     <g ref="char:V">Ʋ</g>ice:</hi> Therefore let thy Vertues be <hi>Grave,</hi> whilſt thy Years are <hi>Green.</hi>
+               </p>
+               <p n="59">59. <hi>Plato,</hi> ſeeing a young Man play at Dice, reprov'd him ſharply; the other anſwered, what for ſo ſmall a matter? cuſtom (ſaid <hi>Plato</hi>) is no ſmall thing; let idle hours be ſpent more uſefully.</p>
+               <p n="60">60. Let youth take delight in good things, for Pleaſures are the Baits of evil: Obſerve the mo<g ref="char:EOLhyphen"/>mentary ſweetneſs of a delicious life is follow'd with eternal Sorrow, the ſhort pain of the con<g ref="char:EOLhyphen"/>trary with eternal Pleaſures.</p>
+               <p n="61">61. Be <hi>meek</hi> and <hi>courteous</hi> to all, yet chooſe only the <hi>Vertuous</hi> and <hi>Harmleſs</hi> for your <hi>Compa<g ref="char:EOLhyphen"/>nions.</hi> The <hi>Dove</hi> flocks not with <hi>Ravens.</hi>
+               </p>
+               <p n="62">62. Let thy Speech be <hi>ſober</hi> and <hi>ſeldom:</hi> To know how to be <hi>ſilent,</hi> is a great advantage to ſpeak <hi>well;</hi> and he that knows not how to do the <hi>one,</hi> knows not the <hi>other.</hi>
+               </p>
+               <p n="63">63. Who <hi>heareth much</hi> and <hi>ſpeaketh little,</hi> may beſt diſcern <hi>Falſhood</hi> from <hi>Truth.</hi>
+               </p>
+               <p n="64">64. We ought alwaies to keep a <hi>Bridle</hi> at our Mouths, even in <hi>Religious</hi> and <hi>Holy Occaſions;</hi> becauſe it is hard to fall into <hi>Arguing,</hi> without of<g ref="char:EOLhyphen"/>fence to GOD and our Neighbour.</p>
+               <p n="65">65. Let thy Speech be ſhort, comprehending much in few Words. For <hi>long Diſcourſes, Ampli<g ref="char:EOLhyphen"/>fications,</hi> and <hi>Repetitions,</hi> are a ſign of <hi>Oſtentati<g ref="char:EOLhyphen"/>on</hi> in the <hi>Speaker,</hi> tedious and irkſom, and of no real good to the <hi>Hearer.</hi> Even in a <hi>good Cauſe,</hi> or on a <hi>good Subject,</hi> a man may ſay too much.</p>
+               <p n="66">66. Rare are the men who ſet a higher price upon hearing then ſpeaking.</p>
+               <p n="67">
+                  <pb n="14" facs="tcp:37676:8"/>67. It is the Property of a <hi>good Man,</hi> to do <hi>much</hi> and <hi>ſay little.</hi>
+               </p>
+               <p n="68">68. The beginning of <hi>Strife,</hi> is as when one letteth out Water: therefore leave off <hi>Conten<g ref="char:EOLhyphen"/>tion</hi> before it be medled with.</p>
+               <p n="69">69. A froward Man ſoweth <hi>Strife:</hi> and a <hi>Whiſperer</hi> ſeparateth very Friends.</p>
+               <p n="70">70. Silence is a Guard of the <hi>Conſcience,</hi> a Bri<g ref="char:EOLhyphen"/>dle from <hi>Inſolence,</hi> and a ſign of <hi>Innocence,</hi> and preſerves from many Evils.</p>
+               <p n="71">71. They that turn anothers words to a worſe end than was intended, ſhews an <hi>evil Mind;</hi> and are far from doing <hi>therein</hi> as they would be done <hi>unto.</hi>
+               </p>
+               <p n="72">72. There is more deſirableneſs in <hi>Meekneſs,</hi> and <hi>Innocency,</hi> than in all the Mountains of <hi>Prey</hi> or <hi>Self-exaltation.</hi>
+               </p>
+               <p n="73">73. A <hi>Vertuous</hi> Man is more Patient in <hi>Adver<g ref="char:EOLhyphen"/>ſity,</hi> than a <hi>
+                     <g ref="char:V">Ʋ</g>icious</hi> in <hi>Proſperity.</hi>
+               </p>
+               <p n="74">74. I will learn <hi>contentment</hi> by conſidering o<g ref="char:EOLhyphen"/>thers <hi>wants</hi> and my own <hi>enjoyments,</hi> and not learn <hi>diſcontent</hi> from others <hi>enjoyments</hi> and my own <hi>wants. J. Hales.</hi>
+               </p>
+               <p n="75">75. A Rich <hi>Worldling</hi> is rather to be pitied for what he wants, than envied for what he has.</p>
+               <p n="76">76. Unſatiable deſires in <hi>Temporals,</hi> makes a man poor in <hi>Spirituals.</hi>
+               </p>
+               <p n="77">77. How <hi>little</hi> ſoever the thing be, if it be <hi>in<g ref="char:EOLhyphen"/>ordinately loved,</hi> it defileth the <hi>Soul,</hi> and hin<g ref="char:EOLhyphen"/>dreth the enjoyment of the CHIEFEST GOOD.</p>
+               <p n="78">78. There is nothing in the World conduceth more to the <hi>Compoſure</hi> and <hi>Tranouility</hi> of the <hi>Mind,</hi> than the <hi>ſerenity</hi> and <hi>clearneſs</hi> of the <hi>Con<g ref="char:EOLhyphen"/>ſcience;</hi>
+                  <pb n="15" facs="tcp:37676:8"/>keep but <hi>That</hi> ſafe and untainted, the <hi>Mind</hi> will enjoy a <hi>Calm</hi> and <hi>Tranquility</hi> in the midſt of all the <hi>Stoyns</hi> of the World. And altho' the Waves beat, and the Sea works, and the Winds blow; the <hi>Mind</hi> that hath a <hi>quiet</hi> and <hi>clear Con<g ref="char:EOLhyphen"/>ſcience within,</hi> will be as <hi>ſtable</hi> and as <hi>ſafe</hi> from <hi>Perturbation</hi> as a Rock in the midſt of a tempe<g ref="char:EOLhyphen"/>ſtuous Sea, and will be a <hi>Goſken</hi> too, and <hi>within it ſelf,</hi> when the reſt of the World without, is like an <hi>Aegypt</hi> for <hi>Contuſion</hi> and <hi>Darkneſs.</hi>
+               </p>
+               <p n="79">79. Whatever thou doſt hazard or loſe, keep the <hi>Integrity</hi> of thy <hi>Conſcience,</hi> both before <hi>Trou<g ref="char:EOLhyphen"/>bles</hi> come and under them; it is a <hi>Jewel</hi> will make thee <hi>Rich</hi> in the midſt of Poverty, a Sun that will give thee <hi>Light</hi> in the midſt of <hi>Datk<g ref="char:EOLhyphen"/>neſs,</hi> a <hi>Fortreſs</hi> that will keep thee ſafe in the greateſt Danger, and that is never to be taken from thee, unleſs thou thy ſelf betray it and deli<g ref="char:EOLhyphen"/>ver it up. <hi>J. Hales</hi> Contempl. p. 374.</p>
+               <p n="80">80. Many words do not ſatisfie the Soul, but a <hi>good Life</hi> comforteth the <hi>Mind,</hi> and a <hi>pure Con<g ref="char:EOLhyphen"/>ſcience</hi> giveth great aſſurance in the ſight of GOD.</p>
+               <p n="81">81. He that keeps the Law of GOD and ab<g ref="char:EOLhyphen"/>ſtains from the <hi>impurity</hi> of the World, that is, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e <hi>good Man,</hi> the <hi>juſt Liver;</hi> he is the Apoſtles <hi>true Jew</hi> and <hi>Circumcition. W. P.</hi>
+               </p>
+               <p n="82">82. The Curſe of the LORD is in the Houſe of the <hi>Wicked,</hi> but HE bleſſeth the Habitation of the <hi>Juſt.</hi>
+               </p>
+               <p n="83">83. Whoſo feareth HIM, it ſhall go well with them at the laſt; and they ſhall find favour in the day of their Death.</p>
+               <p n="84">84. Let reaſon go before every <hi>Enterpriſe:</hi> And Counſel before every <hi>Action.</hi> B</p>
+               <p n="85">
+                  <pb n="16" facs="tcp:37676:9"/>85. Tho' a <hi>good Life</hi> may have but few daies, yet a <hi>good Name</hi> endures for ever.</p>
+               <p n="86">86. What are the delights of the World to the <hi>Peace</hi> of my <hi>Conſoience?</hi> Rather let me be <hi>Poor</hi> with a <hi>good Heart,</hi> than Rich with an <hi>evil Mind.</hi>
+               </p>
+               <p n="87">87. How can <hi>Pleaſures</hi> content me, whilſt the <hi>Sting</hi> of them <hi>Poyſon me?</hi>
+               </p>
+               <p n="88">88. Never think thoſe <hi>true hearted</hi> Friends to thee, that are <hi>falſe</hi> to their own Conſciences.</p>
+               <p n="89">89. They who ſuffer their own <hi>Wills</hi> and <hi>Luſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> to Rule, not only oppreſs others thereby, but <hi>Ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>le</hi> and crucifie the <hi>Juſt</hi> and <hi>Faithful Witneſs</hi> in themſelves.</p>
+               <p n="90">90. There are no ſuch Enemies without, as unruly <hi>Luſts</hi> and <hi>Paſſions</hi> within, therefore la<g ref="char:EOLhyphen"/>bour to overcome them all.</p>
+               <p n="91">91. The great folly of Mankind, is the unru<g ref="char:EOLhyphen"/>lineſs and want of Government, of the <hi>Senſual Appetite</hi> or <hi>Luſts:</hi> Hence grows Internperance and exceſs in Eating, and Drinking, which breaks out into very Fooliſh, Vain, and Imprudent Acti<g ref="char:EOLhyphen"/>ons; exhauſt the Eſtate, waſt and conſume the Health, embaſe and impoveriſheth the Mind, deſtroys the Reputation, and fills the World with much of that Folly and Diſorder, that is every where obſervable. <hi>Judge Hales.</hi>
+               </p>
+               <p n="92">92. A<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> thou deſirous of a Kingdom, ſaies the Philoſopher, I will preſently ſhew thee One. <hi>Rule Wiſely over thy ſelf.</hi>
+               </p>
+               <p n="93">93. <hi>Eraſmus</hi> ſaith, What Men ſet forth by Mens device, may be Perceiv'd by Mans Wit; but the <hi>Thing</hi> that is ſet forth by the Inſpiration of the <hi>Holy Ghoſt,</hi> requireth an interpreter inſpi<g ref="char:EOLhyphen"/>red
+<pb n="17" facs="tcp:37676:9"/>with the like <hi>Spirit,</hi> for without the Inſpirati<g ref="char:EOLhyphen"/>on of <hi>It,</hi> the <hi>ſecrets</hi> of GOD cannot be known.</p>
+               <p n="94">94. Our Eternal help is from GOD who Illu<g ref="char:EOLhyphen"/>minates our Minds, without WHOM we are un<g ref="char:EOLhyphen"/>able to underſtand any thing in <hi>Divine Matters;</hi> and HE inſpires men with that underſtanding, which neither Age, nor Induſtry, nor Doctrine of Man can poſſibly give. <hi>Druſius.</hi>
+               </p>
+               <p n="95">95. <hi>Chilon,</hi> One of the Wiſe Men of <hi>Greece,</hi> left theſe three Pathetical ſayings behind Him: 1. <hi>Whoſoever thou art, learn to know thy ſelf.</hi> 2. <hi>Be not earneſt in thy deſires after any Viſible thing.</hi> 3. <hi>Miſery will be the end of Medling with many Matters.</hi>
+               </p>
+               <p n="96">96. <hi>Humility</hi> and <hi>Abſtinence</hi> keeps the Body and Mind, in much <hi>Evenneſs</hi> and <hi>Tranquility;</hi> but <hi>Pride</hi> and <hi>Fulneſs</hi> are Pernicious to both.</p>
+               <p n="97">97. Afflictions are ſent for the good, even of good Men; and it is their fault if they have not that effect.</p>
+               <p n="98">98. Let thy Afflictions make thee <hi>humble,</hi> and thy deliverance therefrom the more increaſs thy <hi>humility.</hi>
+               </p>
+               <p n="99">99. Follow <hi>Peace</hi> and <hi>Holineſs</hi> with all Men, not only with your Friends, but with your very Enemies; that you may be the Children of the HIGHEST, and of a good example to all Man<g ref="char:EOLhyphen"/>kind.</p>
+               <p n="100">100. The clean Soul of a Chriſtian is the Houſe of GOD, and alſo the Houſe of Prayer, whoſe Body is HIS <hi>Temple.</hi>
+               </p>
+               <p n="101">101. There are ſome that Pray often, yet are not heard to ſpeak much. There are many that make
+<pb n="18" facs="tcp:37676:10"/>long Prayers, yet Pray not at all — acceptably.</p>
+               <p n="102">102. Prayer is a more Spiritual and Secret thing in the Sanctified, than is underſtood by moſt.</p>
+               <p n="103">103. A juſt Man (ſaies <hi>Chryſoſtom</hi>) leaves not off to Pray; unleſs he leaves to be juſt: He alwaies Prays, who alwaies does well; the <hi>good deſire</hi> is <hi>Prayer,</hi> and if the <hi>deſire</hi> be continued, ſo is alſo the <hi>Prayer.</hi>
+               </p>
+               <p n="104">104. To me the Strife of Men is weariſom, their Threatnings, their Flatteries, their Applauſe, their Revilings, are all of them Wiſely, and Si<g ref="char:EOLhyphen"/>lently, to be paſſed over by him that truly mean<g ref="char:EOLhyphen"/>eth Peace on Earth or Glory in Heaven. He were yet to ſeek (ſaies a worthy Man) how to live that knows not how to digeſt and put up ſuch tryals as theſe.</p>
+               <p n="105">105. The firſt ſtep to true Religion, is, to de<g ref="char:EOLhyphen"/>part from Iniquity: all other ſteps in Religious performances till that be, availeth little: for if ini<g ref="char:EOLhyphen"/>quity be regarded in the Heart, GOD regardeth not that mans Prayers.</p>
+               <p n="106">106. Religion (however pull'd ſeveral waies) is of it ſelf a <hi>quiet</hi> and <hi>ſtrifeleſs thing;</hi> Holy indeed, but <hi>Harmleſs,</hi> and <hi>Divine:</hi> yet ſtill ſhining forth in much <hi>Plainneſs</hi> and <hi>Simplicity.</hi> Be you of that Religion which gives <hi>Glory to GOD on High,</hi> on Earth Peace, <hi>and Good will towards Men.</hi>
+               </p>
+               <p n="107">107. True Religion is not to fill Heads with <hi>Notions</hi> and <hi>Opinions,</hi> but to Sow in the Mind the Seed of <hi>Vertue,</hi> to direct how to Go<g ref="char:EOLhyphen"/>vern <hi>Paſſions,</hi> and to deſtroy <hi>ſelf-will.</hi>
+               </p>
+               <p n="108">108. Of all the divers <hi>Religions</hi> that are or may be in the World, they ſeem to be moſt <hi>Noble,</hi> and
+<pb n="19" facs="tcp:37676:10"/>to have greateſt appearance of <hi>Truth,</hi> which without much external and bodily ſervice, draw the Soul into it ſelf, and raiſe it by pure Contem<g ref="char:EOLhyphen"/>plation to admire and adore the Greatneſs and In<g ref="char:EOLhyphen"/>finite MAJESTY of the cauſe of all things, and the BEING of <hi>Beings,</hi> without any great <hi>De<g ref="char:EOLhyphen"/>claration</hi> or <hi>Preſcription</hi> of HIS ſervice. <hi>Charon.</hi>
+               </p>
+               <p n="109">109. <hi>Virtue</hi> and <hi>Goodneſs</hi> ought to be own'd in all <hi>Parties</hi> and <hi>Opinions,</hi> and if theſe were pra<g ref="char:EOLhyphen"/>ctis'd it would reconcile all men to each other.</p>
+               <p n="110">110. <hi>Happy is he that ſhall be exercis'd</hi> in theſe things, <hi>and he that layeth them up in his Heart ſhall become Wiſe.</hi>
+               </p>
+            </div>
+            <div type="part">
+               <head>He that can Read, let him underſtand what follows.</head>
+               <p n="111">111. THat the Soul may be the Habitation of the <hi>Celeſtial</hi> KING, it is neceſſary that it ſhould be <hi>pure</hi> and without any <hi>blemiſh;</hi> wherefore the LORD purifies it as Gold in the Furnace of Tribulations and Temptations.</p>
+               <p n="112">112. Thou art to know, that the humble Soul is a Habitation for GOD, that therefore to the end the Sovereign KING may reſt in the Throne of Thy Soul; thou oughtſt to take care it be <hi>Clean, Quiet,</hi> and <hi>Peaceable.</hi>
+               </p>
+               <p n="113">113. Think not that GOD eſteemeth him moſt, that doth, or talketh moſt; but he is moſt belov'd, who is moſt <hi>Humble,</hi> moſt <hi>Faithful,</hi> and <hi>Reſign'd,</hi> and moſt conform to the DIVINE WILL and <hi>Pleaſure.</hi>
+               </p>
+               <p n="114">114. Where the DIVINE SPIRIT
+<pb n="20" facs="tcp:37676:11"/>dwells, there is alwaies <hi>Simplicity</hi> and <hi>Innocency;</hi> which are the proper <hi>fruits</hi> and <hi>effects</hi> of it.</p>
+               <p n="115">115. The Spirit of DIVINE WISDOM, fills men with <hi>Sweetneſs,</hi> governs 'em with <hi>Cou<g ref="char:EOLhyphen"/>rage,</hi> and enlightens thoſe with <hi>excellence</hi> who are ſubject to Its direction.</p>
+               <p n="116">116. It is a conſtant Maxim, that DIVINE <hi>Wiſdom</hi> begets <hi>Humility:</hi> But that which is acqui<g ref="char:EOLhyphen"/>r'd by the Learned (or others) begets <hi>Pride.</hi>
+               </p>
+               <p n="117">117. The LORD takes delight only in thoſe Souls, where <hi>Peace</hi> and <hi>Quietneſs</hi> Reins, and <hi>Self-love</hi> and <hi>Self-will</hi> are baniſhed.</p>
+               <p n="118">118. <hi>Self-love</hi> and <hi>Self-will</hi> are two of the greateſt Enemies to Mankind; and are hard to be <hi>diſcover'd,</hi> or <hi>overcome.</hi>
+               </p>
+               <p n="119">119. Incourage thy ſelf to be <hi>Humble,</hi> em<g ref="char:EOLhyphen"/>bracing <hi>Tribulations</hi> as Inſtruments of thy good; and deſite that GOD may be thy only <hi>Refuge, Comfort,</hi> and <hi>Conſolation.</hi>
+               </p>
+               <p n="120">120. Happy's that Soul who when <hi>Afflicted</hi> and <hi>diſconſolate</hi> keeps ſteady <hi>within,</hi> and goes not forth for <hi>outward Comfort,</hi> but relies only upon the DIVINE <hi>Goodneſs.</hi>
+               </p>
+               <p n="121">121. The Soul that would be United to <hi>Chriſt</hi> muſt be conformable to HIM, and follow HIM through <hi>Good</hi> and <hi>Evil</hi> report.</p>
+               <p n="122">122. Reſign and deny thy ſelf wholly; for tho' true ſelf-denial ſeem <hi>harſh</hi> at the beginning, 'tis <hi>eaſie</hi> in the middle, and becomes moſt exceed<g ref="char:EOLhyphen"/>ing <hi>Sweet</hi> and <hi>Pleaſant</hi> in the End.</p>
+               <p n="123">123. The diſeſteem of the delights of the World, and accounting of 'em troubleſome, is a ſign of a Mortified Man.</p>
+               <p n="124">
+                  <pb n="21" facs="tcp:37676:11"/>124. Inward <hi>Mortification</hi> and perfect <hi>Reſigna<g ref="char:EOLhyphen"/>tion,</hi> are neceſſary for obtaining <hi>inward peace.</hi>
+               </p>
+               <p n="125">125. Happy is he, who by DIVINE aſſi<g ref="char:EOLhyphen"/>ſtance ſuffers both Internal, and External <hi>Cro<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>
+                  </hi> with <hi>Content</hi> and <hi>Reſignation.</hi>
+               </p>
+               <p n="126">126. Never diſquiet thy ſelf for any Accident; becauſe, unquietneſs is the Door by which the Enemy gets entrance into the <hi>Soul</hi> to Rob it of its Peace.</p>
+               <p n="127">127. Enjoyment and Internal Peace are the fruits of the DIVINE SPIRIT, which no man gets into his Poſſeſſion, if in the Cloſet of his <hi>Soul</hi> he is not a <hi>reſigned</hi> man.</p>
+               <p n="128">128. Take heed of thy Self, for thou of thy Self, art the greateſt Enemy to thy Self.</p>
+               <p n="129">129. The Spiritual man that lives inwardly with his MAKER, is contented in the midſt of all <hi>Adverſities.</hi>
+               </p>
+               <p n="130">130. The Way of inward Peace is in all things to be conformable to the pleaſure of the DIVINE WILL. This Conformity is the <hi>Sweet Yoak</hi> that introduces us into the Region of <hi>Internal Peace</hi> and <hi>Serenity.</hi> Hence we may know that the <hi>Re<g ref="char:EOLhyphen"/>bellion</hi> of our <hi>Will</hi> is the chief occaſion of all our diſquiet.</p>
+               <p n="131">131. O how much is there to be purified in a Soul that muſt arrive at the Holy Mountain of Perfection! O how <hi>Innocent, Sincere,</hi> and <hi>Hum<g ref="char:EOLhyphen"/>ble,</hi> ought that <hi>Soul</hi> to be, which would not hin<g ref="char:EOLhyphen"/>der the entrance of the DIVINE BEING in<g ref="char:EOLhyphen"/>to it, nor HIS communication with it?</p>
+               <p n="132">132. This preparing the Soul for DIVINE en<g ref="char:EOLhyphen"/>trance, muſt of neceſſity be made by the DIVINE WISDOM.</p>
+               <p n="133">
+                  <pb n="22" facs="tcp:37676:12"/>133. He that will follow CHRIST, and come unto Perfection, let him part with his own <hi>Will</hi> wholly; let him intirely ſubmit to the Yeak of <hi>Obedience</hi> and <hi>Subjection,</hi> by means of <hi>Solf dental,</hi> which is the <hi>trueſt Croſs.</hi>
+               </p>
+               <p n="134">134. Perfection doth not conſiſt in Teaching it, but in living it<g ref="char:punc">▪</g> Becauſe, he is neither the great<g ref="char:EOLhyphen"/>eſt Saint, nor the wiſeſt Man that knows the Truth moſt, but he that practices it.</p>
+               <p n="135">135. The LORD hath HIS repoſe in <hi>Peace<g ref="char:EOLhyphen"/>able</hi> and <hi>quiet Souls,</hi> and in thoſe in whom the fire of <hi>Tribulation</hi> and <hi>Temptation</hi> hath burnt up the <hi>Dregs</hi> of <hi>Paſſions,</hi> and the bitter wa<g ref="char:EOLhyphen"/>ter of <hi>Afflictions</hi> hath waſhed off the <hi>Filthy Spo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> of <hi>Inordinate luſts</hi> and Affections; HE repoſes only where <hi>Quietneſs</hi> Reins and <hi>Self<g ref="char:EOLhyphen"/>love</hi> is Baniſhed.</p>
+               <p n="136">136. Tho the Soul be wanting in <hi>Senſible De<g ref="char:EOLhyphen"/>votion,</hi> yet, it covets <hi>Solitude</hi> and avoids Conver<g ref="char:EOLhyphen"/>ſation, that it may be in readineſs to receive the influences of the DIVINE Bounty.</p>
+               <p n="137">137. How is it poſſible for any to have Com<g ref="char:EOLhyphen"/>munication with the <hi>Sweet, Inward,</hi> and <hi>Power<g ref="char:EOLhyphen"/>ful Voice</hi> of GOD, who are not ſequeſter'd from the <hi>Noiſe</hi> and <hi>Cumults</hi> of the World?</p>
+               <p n="138">138. And tho' <hi>exterior Solitude</hi> doth much aſ<g ref="char:EOLhyphen"/>ſiſt for the obtaining <hi>inward Peace,</hi> yet, 'tis the <hi>inward Solitude</hi> that chiefly brings a Man into the enjoyment of the CHIEFEST GOOD.</p>
+               <p n="139">139. He is buſied enough, who is alwaies waiting to do the will of GOD; to Whom one pure Act of <hi>Internal Reſignation,</hi> is more accepta<g ref="char:EOLhyphen"/>ble then a thouſand Exerciſes in ones own <hi>Will.</hi>
+               </p>
+               <p n="140">
+                  <pb n="23" facs="tcp:37676:12"/>140. Behold, to <hi>Obey</hi> is better then <hi>Sacrifice,</hi> and to hearken better then the fat of Rams.</p>
+               <p n="141">141. He that is upon excuſes and replies to his Superiors, has not a <hi>Simple</hi> and <hi>Humble</hi> heart; becauſe, replies grow from a ſecret <hi>Pride</hi> that reigns in the <hi>Soul,</hi> and from thence the Total ruin of it.</p>
+               <p n="142">142. The <hi>Soul</hi> when it is in the deepeſt Con<g ref="char:EOLhyphen"/>templation, and in the feeling of the <hi>Raviſhing delights</hi> of its <hi>BELOVED,</hi> is ſeldom ſeen in much <hi>Shew</hi> or <hi>Ceremony.</hi>
+               </p>
+               <p n="143">143. And when the <hi>Soul</hi> is in thoſe enjoyments, which <hi>Eye hath not ſeen, Ear heard, nor enter'd into the Heart of Man to conceive;</hi> then the <hi>Ene<g ref="char:EOLhyphen"/>my</hi> ſeeks by various <hi>Temptations</hi> and <hi>Alute<g ref="char:EOLhyphen"/>inents,</hi> to draw the <hi>Mind</hi> from a <hi>Steady, Quiet,</hi> and <hi>intire Reſignation:</hi> But the true <hi>Spouſe</hi> who is kept <hi>Chaſt</hi> to her BELOVED, cannot be drawn from HIM by any <hi>Temptations. Di<g ref="char:EOLhyphen"/>vinarions, Inchantments,</hi> or <hi>Alurements</hi> whatſoever; well knowing that <hi>one Hour in HIS preſence, is better then a thouſand elſewhere.</hi>
+               </p>
+               <p n="144">144. The <hi>Harlot</hi> by good Words and fair Speeches, ſeeks to bewitch and beguile the Hearts of the Simple; Happy is he that ſees Her, and the foot that turns from Her.</p>
+               <p n="145">145 He that hath put his band to the <hi>Plow</hi> and <hi>Work</hi> of GOD, ought not to look back what ever <hi>Reproach, Tryal,</hi> or <hi>Difficulty</hi> he meets with all; neither ſhould he that is engaged in a <hi>ſpiritual War-fare,</hi> intangle himſelf with the Af<g ref="char:EOLhyphen"/>fairs of this life.</p>
+               <p n="146">
+                  <pb n="24" facs="tcp:37676:13"/>146. Unleſs a Man be Circumcis'd in <hi>Heart,</hi> and <hi>Ears,</hi> he cannot be truly Happy.</p>
+               <p n="147">147. Antichriſt's Kingdom was upheld and pro<g ref="char:EOLhyphen"/>moted in daies paſt by the Scribes, and Phari<g ref="char:EOLhyphen"/>ſees, in talking of the FATHERS <hi>Will:</hi> But Chriſt's Kingdom was upheld and carried on in Doing the FATHER'S <hi>Will:</hi> and as it was then, ſo it hath been in this our Age. <hi>He that hath Ears to hear, let him hear.</hi>
+               </p>
+               <p n="148">148. Many have been call'd, but few have follow'd the LORD fully, who requires a <hi>Purifying,</hi> yea, a thorow <hi>Cleanſing</hi> of all, that this Day make mention of HIS Name.</p>
+               <p n="149">149. It is written of the OX, that in daies paſt he knew his <hi>Owner,</hi> and the <hi>Aſs</hi> his Maſters <hi>Crib;</hi> but the People who profeſſed the Name of the Moſt HIGH they had forgot HIM daies with<g ref="char:EOLhyphen"/>out Number, and as it was then, ſo it is now: <hi>He that can receive it, let him.</hi>
+               </p>
+               <p n="150">150. The <hi>Way</hi> is narrow that leadeth unto Life, and tho' many be the talkers of it, yet, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ew there are that have found it, or are walking in it.</p>
+               <p n="151">151. Many have a form of <hi>Godlineſs,</hi> but moſt deny the <hi>Power</hi> thereof, and from ſuch the <hi>Righ<g ref="char:EOLhyphen"/>teous</hi> and <hi>Sincere</hi> are to turn away.</p>
+               <p n="152">152 To ſpeak inwardly with GOD is the State and Happineſs of an Heavenly and Spiritual Man.</p>
+               <p n="153">153. The Bleſſing is not to the <hi>High,</hi> nor to the <hi>Exalted;</hi> but to the <hi>Poor</hi> in Spirit.</p>
+               <p n="154">154. A <hi>Meck</hi> and <hi>Quiet Spirit</hi> is of great <hi>Price,</hi> happy are the Enjoyers and Poſſeſſors of it.</p>
+               <p>Hugo Grotius, <hi>a Man of <g ref="char:V">Ʋ</g>niverſal Learning and profound Policy (before he came to dye) ſaid,</hi> I would
+<pb n="25" facs="tcp:37676:13"/>give all my Learning and Honour, for the plain integrity and harmleſs Innocency of <hi>Jean <g ref="char:V">Ʋ</g>rick.</hi>
+               </p>
+               <p n="155">155. Spiritual Worſhip is called for, and Spi<g ref="char:EOLhyphen"/>ritual Worſhippers are to be ſought out; happy's the Man, and happy's the Woman that is fitted and prepared for it.</p>
+               <p n="156">156. The PEARL which many have loſt, is not to be found abroad; he that would find it, muſt dig deep for it.</p>
+               <p n="157">157. It is good for <hi>all</hi> to have <hi>ſalt</hi> in themſelves, that ſo the good Shepherd's Voice may be known from the Voice of a Stranger.</p>
+               <p n="158">158. He that <hi>knows,</hi> and <hi>talks</hi> of his MASTERS <hi>Will,</hi> and does it not; muſt expect to be beaten with many <hi>Stripes.</hi>
+               </p>
+               <p n="159">159. In the <hi>Inward work</hi> let all be <hi>Diligent,</hi> and <hi>Zealous,</hi> leſt whilſt they ſee the Evils of others, they may be Blind to any that is within them<g ref="char:EOLhyphen"/>ſelves; and then are they miſerable: Therefore mind the fear of the LORD only, and that will keep your own Hearts clean, and will pre<g ref="char:EOLhyphen"/>ſerve you from being hurt, or defiled by others.</p>
+               <p n="160">160. Happy's the Man, and happy's the Wo<g ref="char:EOLhyphen"/>man, that feareth <hi>alwaies;</hi> that ſtandeth in <hi>Awe</hi> and ſinneth not.</p>
+               <p n="161">161. Truth leadeth its Followers into <hi>Humility,</hi> and <hi>Lowlineſs</hi> of Mind, and leads out of all <hi>Pride, Conceitedneſs,</hi> and <hi>Self-Exaltation.</hi>
+               </p>
+               <p n="162">162. Truth Glories not in <hi>Multitudes,</hi> nor the Followers of the LAMB in an Arm of Fleſh.</p>
+               <p n="163">163. No Man nor Woman can know the true SHEPHERD'S <hi>Voice,</hi> until they come to witneſs a ſilencing of all Fleſh in themſelves.</p>
+               <p n="164">
+                  <pb n="26" facs="tcp:37676:14"/>164. <hi>Death</hi> and <hi>Deſtrution</hi> have long talk<g ref="char:EOLhyphen"/>ed of the ſame of <hi>Wiſdom,</hi> but <hi>Wiſdom</hi> is only juſtifi'd of her own Children; happy are they that have an Ear to hear.</p>
+               <p>'Tis not the <hi>Doves</hi> but the Birds of <hi>Frey</hi> that feed upon the <hi>Carkaſs.</hi> happy are they that have an Ear to hear, ſo as to feed only upon the <hi>true Bread.</hi>
+               </p>
+               <p n="165">165. A <hi>Virtuous Good</hi> and <hi>Holy Life,</hi> is more to be deſired, and is more accepted of, then all the hearing, or all the talking of <hi>Truth</hi> in words, is, or can be.</p>
+               <p n="166">166. This is certain, no Soul goes to GOD in Death; but only <hi>That</hi> which drew nigh to HIM in Life.</p>
+               <p n="167">167. He that hath the Law of the moſt HIGH witten in his Heart, and is guided thereby, can<g ref="char:EOLhyphen"/>not feed upon <hi>Wind;</hi> nor be ſatisfi'd with a Multitude of Words: For it is only the <hi>Word</hi> of LIFE that can ſatisfie the <hi>Hungry</hi> and <hi>Immortal Soul;</hi> happy are they that have an Ear to hear.</p>
+               <p n="168">168. He that follows the Truth for the <hi>Loaves,</hi> or for any <hi>Seniſter</hi> or <hi>By-end,</hi> can never be an <hi>In<g ref="char:EOLhyphen"/>heritor</hi> or <hi>Poſſeſſor</hi> of the true <hi>Bread.</hi>
+               </p>
+               <p n="169">169. He that ſeeks the good of others, ought not to be weary of well doing; there being a <hi>Seaſon</hi> in which he ſhall aſſuredly <hi>Reap,</hi> if he faints not.</p>
+               <p n="170">170. He that cannot freely forgive his <hi>Ene<g ref="char:EOLhyphen"/>mies</hi> and reward <hi>Good</hi> for <hi>Evil,</hi> cannot be a Diſciple of JESUS that JUST and HOLY ONE.</p>
+               <p n="171">171. He that is not faithful to the <hi>Meaſure</hi> or <hi>Gift</hi> of GOD in himſelf, whatever others ſay
+<pb n="27" facs="tcp:37676:14"/>or do unto him, is not, nor cannot be CHRIST'S Diſciple this Day.</p>
+               <p n="172">172. He that <hi>Builds</hi> upon the <hi>Faith of others, Builds</hi> upon a <hi>Sandy Foundation;</hi> and he that gives up his <hi>
+                     <g ref="char:V">Ʋ</g>nderſtanding</hi> and <hi>Judgment</hi> unto o<g ref="char:EOLhyphen"/>thers, whatever they be, is one of thoſe <hi>Builders.</hi> He that hath an Ear to hear, let him hear.</p>
+               <p n="173">173. But he that <hi>Builds</hi> upon the <hi>Grace</hi> and <hi>Gift</hi> of GOD in his own particular, <hi>Builds</hi> upon a <hi>ſure and ſafe Foundation;</hi> yea, he <hi>Builds</hi> upon that <hi>Foundation</hi> which the Gates of <hi>Hell</hi> cannot prevail againſt, and which Men nor <hi>Devils</hi> can- overthrow; Happy are they that have Ears to hear, ſo as to be <hi>Builders</hi> on that <hi>Foundation.</hi>
+               </p>
+               <p>
+                  <hi>Theſe are faithful and true SAYINGS: He that can receive them, let him.</hi>
+               </p>
+               <p n="174">174. MY Soul ſaith, in the bitterneſs thereof, <hi>O what wilt THO<g ref="char:V">Ʋ</g> do for THY GREAT NAME!</hi> Shall It be <hi>Diſhonour'd,</hi> and ſhall none lay it to <hi>Heart?</hi> Shall the leadings of <hi>THY SPIRIT</hi> be departed from? and ſhall none take It to be their GUIDE?</p>
+               <p n="175">175. Where are the People that are ſo <hi>Chaſt,</hi> ſo <hi>Reſign'd,</hi> and ſo intirely given up to ſerve the LORD, that they are willing to part with all for HIS ſake?</p>
+               <p n="176">176. Where are they that are Valiant for the <hi>Truth,</hi> and are ſtedfaſtly ſet to follow the LORD fully?</p>
+               <p n="177">177. Where is the Mind that is ſo <hi>Humbled</hi> as to follow HIM through all <hi>Reproaches?</hi> and
+<pb n="28" facs="tcp:37676:15"/>where are they that live by <hi>Faith</hi> and not at all by <hi>Sight?</hi>
+               </p>
+               <p n="178">178. Where are the <hi>Hungerers</hi> after the true BREAD? and where is the <hi>ſlain-Mind</hi> to all vi<g ref="char:EOLhyphen"/>ſible things?</p>
+               <p n="179">179. Where are the <hi>Sufferers</hi> with the SEED? and where are Its <hi>True</hi> and <hi>faithful Companions?</hi> who ſuffers with It in Its forſaken ſtate? and who joyns to It in all Exerciſes?</p>
+               <p n="180">180. The Eye that's abroad cannot ſee HIM; the Mind that's at eaſe cannot behold HIM; they that are full ſee no want of HIM; they that ſlumber near HIM not; but the <hi>ſilent Water</hi> hath joy in HIS preſence. Even ſo, <hi>O LORD, let THY Childrens whole delight be in THEE, hence<g ref="char:EOLhyphen"/>forth and for ever.</hi> Amen.</p>
+               <q>
+                  <p>
+                     <hi>To</hi> Day <hi>if you will hear HIS Voice, har<g ref="char:EOLhyphen"/>den not your hearts.</hi>
+                  </p>
+                  <p>
+                     <hi>For in ſuch an Hour</hi> (and in ſuch a Way) <hi>as you think not of, the SON of Man cometh.</hi>
+                  </p>
+               </q>
+               <q>
+                  <p>
+                     <hi>It is my chiefeſt Care, and greateſt Con<g ref="char:EOLhyphen"/>cern to endeavour the Finiſhing every Worlt I have to do; that when my daies are end<g ref="char:EOLhyphen"/>ed, and the Work finiſhed for which I came into the World, I may have nothing elſe to do, but to depart this Life in a</hi> Reaceable Quiet, <hi>and</hi> Happy State.</p>
+               </q>
+               <q>
+                  <pb n="29" facs="tcp:37676:15"/>
+                  <p>THOU ſhalt well conſider in thin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> Heart, and remember all the Way that I have hitherto <hi>led Thee,</hi> to <hi>try Thee,</hi> and to <hi>prove Thee,</hi> [Thou that art the Author of theſe Collections] that thou maiſt in the following part of thy Life, know and acknowledge the GOD of all thy Mercies.</p>
+                  <p>
+                     <hi>Oct.</hi> 3. 1687.</p>
+               </q>
+               <q>
+                  <p>O <hi>LORD! Cleanſe THO<g ref="char:V">Ʋ</g> me, and I Shall be clean;</hi> Purge <hi>and</hi> Purifie <hi>THO<g ref="char:V">Ʋ</g> me, that I may be as white as Snow, without ſpot or wrinkle, or any ſuch thing: This, This is that my Soul hath long longed for; and now beg of THEE that it may be fully accompliſhed to THY Honour and Glory, henceforth even for ever and ever. Oh! hear, defer not I beſeech THEE, to forgive whatever has been amiſs in me; even for THY Great Names ſake; for THY Suffering</hi> Seeds <hi>ſake; and THY</hi> End<g ref="char:EOLhyphen"/>neſs, Infinite, <hi>and</hi> Incomprehenſible Mercies <hi>Sake, which hath ever been extended towards all who have put their whole truſt and confidence in THEE, as I do at this Day. Glory, Glory, for ever be to THEE, OTHO<g ref="char:V">Ʋ</g> moſt</hi> HIGH! <hi>who wert, who art, and who art to come! GOD Bleſſed for ever, and for evermore!</hi> Amen, <hi>and</hi> Amen.</p>
+                  <p>
+                     <hi>Octob.</hi> 19. 1687.</p>
+               </q>
+               <pb n="30" facs="tcp:37676:16"/>
+               <p>Several Coppies of this following were ſent to my Friends and Acquaintance in and about, <hi>London,</hi> and is here Printed for the ſake and ſervice of all concern'd therein.</p>
+               <floatingText type="letter" xml:lang="eng">
+                  <body>
+                     <opener>
+                        <salute>Dear People,</salute>
+                     </opener>
+                     <p>YOu, who are forth your Habitations, I am at this Moment, in ſuffering for you; and am made in that Love that is not of this World, to intreat and beſeech you who have in any meaſure taſted of the Good <hi>Word</hi> of GOD; to return every Individual of you to your own Homes, Tents, and Ta<g ref="char:EOLhyphen"/>bernacles: and there to wait in the ſtilneſs and ſilence of all fleſh, for the Reſurrecti<g ref="char:EOLhyphen"/>on of that <hi>Life,</hi> and <hi>Power,</hi> which at pre<g ref="char:EOLhyphen"/>ſent ſeems to lye <hi>Dead;</hi> and as it were even <hi>Buried</hi> in moſt. Oh! reject not, withſtand not, but be freely given up to the Counſel and Advice herein given you, then will you reap the Benefit, and I the Reward of this my Love and Faithfulneſs towards you all.</p>
+                     <closer>
+                        <dateline>
+                           <date>
+                              <hi>Oct.</hi> 19. 1687.</date>
+                        </dateline>
+                     </closer>
+                  </body>
+               </floatingText>
+               <q>
+                  <hi>Chooſe you whom ye will ſerve: But as for me and mine, we are bound and ingaged to ſerve the LORD, the great GOD only.</hi>
+               </q>
+               <trailer>THE END.</trailer>
+               <pb facs="tcp:37676:16"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
